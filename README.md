@@ -1,0 +1,1 @@
+# SSA-foodseva-client
